@@ -8,3 +8,4 @@ swift/.build/
 *.xcodeproj/xcuserdata/
 *.xcworkspace/xcuserdata/
 DerivedData/
+.cursor/
